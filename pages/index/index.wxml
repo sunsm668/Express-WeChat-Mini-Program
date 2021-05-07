@@ -1,0 +1,31 @@
+<image class="banner" src="../../resources/banner.png"></image>
+<view class="title">最常用快递员</view>
+<view class="info">
+  <view class="courier">
+    <view class="courier-P1">
+      <image class="courier-P1-portrait" src="../../resources/portrait.png"></image>
+      <view class="courier-P1-text">
+        <view class="courier-P1-info">
+          <view class="courier-P1-name">慕慕**</view>
+          <view class="courier-P1-tel">133****9999</view>
+        </view>
+        <view class="courier-P1-service">
+          <view class="courier-P1-type">急速快递</view>
+          <view class="courier-P1-side">深圳机场路</view>
+        </view>
+      </view>
+      <view class=" sent">
+        <image class=" sent-img" src="../../resources/mail.png"></image>
+        <view class="sent-text">一键寄出</view>
+      </view>
+    </view>
+  </view>
+  <view class="indent">
+    <image class="indent-img" src="../../resources/small.png"></image>
+    <view class="indent-btn">
+        <image class=" indent-btn-img" src="../../resources/dingdan.png"></image>
+        <view class="indent-btn-text">我的订单</view>
+      </view>
+  </view>
+</view>
+

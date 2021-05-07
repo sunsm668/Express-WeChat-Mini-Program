@@ -1,0 +1,113 @@
+page {
+  background: #f2f2f2;
+}
+.user{
+  display: flex;
+  width: 100%;
+  height: 156rpx;
+  background-color: #fff;
+  align-items: center;
+}
+.user-portrait{
+  width: 92rpx;
+  height: 92rpx;
+  border-radius: 46rpx;
+  margin: 0 34rpx 0 50rpx;
+}
+.user-text{
+  flex: 1;
+}
+.user-info{
+  display: flex;
+  font-size: 28rpx;
+  color: #626161;
+}
+.user-name{
+  margin-right: 64rpx;
+}
+.user-service{
+  display: flex;
+  font-size: 24rpx;
+  color: #999999;
+}
+.user-type{
+  margin-right: 64rpx;
+}
+.user-arrow{
+  width: 16rpx;
+  height: 30rpx;
+  margin-right: 58rpx;
+}
+.recipients,
+.addressor{
+  display: flex;
+  align-items: center;
+  width: 100%;
+  height: 108rpx;
+  background-color: #fff;
+  margin-top: 20rpx;
+}
+.recipients-dot,
+.addressor-dot{
+  width: 12rpx;
+  height: 12rpx;
+  border-radius: 6rpx;
+  background-color: #35BD00;
+  margin: 0 74rpx 0 90rpx;
+}
+.recipients-info,
+.addressor-info{
+  flex: 1;
+  font-size: 28rpx;
+  color: #626161;
+}
+.recipients-icon,
+.addressor-icon{
+  width: 28rpx;
+  height: 28rpx;
+  margin-right: 54rpx;
+}
+.next{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 660rpx;
+  height: 72rpx;
+  background-color: #35BD00;
+  font-size: 28rpx;
+  color: #FFFFFF;
+  border-radius: 36rpx;
+  margin: 40rpx auto 20rpx;
+}
+.pact{
+  display: flex;
+  width: 100%;
+  height: 32rpx;
+}
+.p1, .p2, .p3{
+  display: flex;
+  margin: 0 auto;
+  width: 33.33%;
+}
+.p1{
+  margin-left: 30rpx;
+}
+.split-line{
+  width: 1px;
+  height: 20rpx;
+  margin-top: 5rpx;
+  background-color: #999999;
+}
+.pact-icon{
+  width: 30rpx;
+  height: 30rpx;
+  margin-left:12rpx;
+}
+.p2pact-icon{
+  margin-left: 44rpx;
+}
+.pact-title{
+  font-size: 24rpx;
+  color: #999999;
+  margin-left: 10rpx;
+}

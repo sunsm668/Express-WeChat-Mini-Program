@@ -1,0 +1,34 @@
+<view class="header">
+  <image class="header-portrait" src="../../resources/portrait.png"></image>
+  <view class="header-text">
+    <view class="header-name">慕慕</view>
+    <view class="header-intro">还没有你的个性签名哦</view>
+  </view>
+  <image class="header-arrow" src="../../resources/arrow.png"></image>
+</view>
+<view class="info">
+  <image class="info-img" src="../../resources/phone.png"></image>
+  <text class="info-text">绑定手机</text>
+</view>
+<navigator url="/pages/certification/certification">
+  <view class="info">
+    <image class="info-img" src="../../resources/realname.png"></image>
+      <text class="info-text">我的实名</text>
+  </view>
+</navigator>
+<view class="info">
+  <image class="info-img" src="../../resources/voucher.png"></image>
+  <text class="info-text">我的抵用卷</text>
+</view>
+<view class="info">
+  <image class="info-img" src="../../resources/address.png"></image>
+  <text class="info-text">常用地址</text>
+</view>
+<view class="info">
+  <image class="info-img" src="../../resources/news.png"></image>
+  <text class="info-text">消息中心</text>
+</view>
+<view class="info">
+  <image class="info-img" src="../../resources/service.png"></image>
+  <text class="info-text">客服服务</text>
+</view>

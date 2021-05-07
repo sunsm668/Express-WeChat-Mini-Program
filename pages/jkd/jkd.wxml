@@ -1,0 +1,41 @@
+<view class="user">
+  <image class="user-portrait" src="../../resources/portrait.png"></image>
+  <view class="user-text">
+    <view class="user-info">
+      <view class="user-name">慕慕**</view>
+      <view class="user-tel">133****9999</view>
+    </view>
+    <view class="user-service">
+      <view class="user-type">急速快递</view>
+      <view class="user-side">深圳机场路</view>
+    </view>
+  </view>
+  <image class="user-arrow" src="../../resources/arrow-active.png"></image>
+</view>
+<view class="addressor">
+  <view class="addressor-dot"></view>
+  <view class="addressor-info">发件人信息</view>
+  <image class="addressor-icon" src="../../resources/people.png"></image>
+</view>
+<view class="recipients">
+  <view class="recipients-dot"></view>
+  <view class="recipients-info">收件人信息</view>
+  <image class="recipients-icon" src="../../resources/people.png"></image>
+</view>
+<view class="next">下一步</view>
+<view class="pact">
+  <view class="p1">
+    <image class="pact-icon" src="../../resources/p1.png"></image>
+    <view class="pact-title">守时守约</view>
+  </view>
+  <view class="split-line"></view>
+  <view class="p2">
+    <image class="pact-icon p2pact-icon" src="../../resources/p2.png"></image>
+    <view class="pact-title">丢损必赔</view>
+  </view>
+  <view class="split-line"></view>
+  <view class="p3">
+    <image class="pact-icon" src="../../resources/p3.png"></image>
+    <view class="pact-title">急速官方保证</view>
+  </view>
+</view>

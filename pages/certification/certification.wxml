@@ -1,0 +1,25 @@
+<form action="" >
+  <view class="row">
+    <view class="title">姓名</view>
+    <input type="text" class="input" placeholder="慕慕"/>
+  </view>
+  <view class="row">
+    <view class="title">证件号码</view>
+    <input type="idcard" class="input" placeholder="7766568*****223366"/>
+  </view>
+  <view class="row">
+    <view class="title">证件照片</view>
+    <input type="text" class="input" placeholder="请上传身份证照片（非必传"/>
+  </view>
+  <view class="row">
+    <view class="title">手机号码</view>
+    <input type="text" class="input" placeholder="139****7890"/>
+  </view>
+  <label>
+    <view class="submit">
+    <button type="submit" form-type="submit" class="btn">
+        <view class="submit-text">提交</view>
+      </button>
+    </view>
+  </label>
+</form>
